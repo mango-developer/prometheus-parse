@@ -1,0 +1,12 @@
+[package]
+name = "prometheus-parse"
+version = "0.2.3"
+edition = "2018"
+license = "Apache-2.0"
+
+
+[dependencies]
+chrono = "^0.4"
+itertools = "^0.10"
+lazy_static = "^1.4"
+regex = "^1.3"
